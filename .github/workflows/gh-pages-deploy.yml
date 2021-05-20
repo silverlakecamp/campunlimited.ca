@@ -22,7 +22,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
 
     - run: npm ci
-    - run: npm run generate
+    - run: npm run build
 
     - name: Deploy to GitHub Pages
       uses: Cecilapp/GitHub-Pages-deploy@v3
