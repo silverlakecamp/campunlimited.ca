@@ -1,3 +1,7 @@
+<script>
+  import slwc_logo from '../img/slwc_alt_icon_color.png'
+</script>
+
 <svelte:head>
   <title>Camp Unlimited™ by SLWC.ca</title>
 </svelte:head>
@@ -13,7 +17,7 @@
       <span class="bold uppercase green xs">Silver</span><span class="light green uppercase xs">Lake</span>
       <div class="bold uppercase lg tight">camp</div>
       <div class="uppercase sm green tight squish">unlimited.ca</div>
-      <img src="src/img/slwc_alt_icon_color.png" height="100px" alt="slwc logo">
+      <img src="{slwc_logo}" height="100px" alt="slwc logo">
     </div>
   </div>
 </main>
