@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -8,16 +9,15 @@
 
 		
 
-		<link rel="modulepreload" href="/./_app/start-fc19a0ed.js">
-		<link rel="modulepreload" href="/./_app/chunks/vendor-4cb6c218.js">
-		<link rel="modulepreload" href="/./_app/pages/__layout.svelte-4b7967dc.js">
-		<link rel="modulepreload" href="/./_app/pages/index.svelte-844e97b1.js">
-		<link rel="stylesheet" href="/./_app/assets/start-a8cd1609.css">
-		<link rel="stylesheet" href="/./_app/assets/pages/__layout.svelte-ddb461b1.css">
-		<link rel="stylesheet" href="/./_app/assets/pages/index.svelte-e9b88a62.css">
+		<link rel="modulepreload" href="/./_app/start-8e3ff029.js">
+		<link rel="modulepreload" href="/./_app/chunks/vendor-591b60cb.js">
+		<link rel="modulepreload" href="/./_app/pages/__layout.svelte-d8ddd122.js">
+		<link rel="modulepreload" href="/./_app/pages/index.svelte-7050e01e.js">
+		<link rel="stylesheet" href="/./_app/assets/start-0826e215.css">
+		<link rel="stylesheet" href="/./_app/assets/pages/__layout.svelte-31c33045.css">
 
 		<script type="module">
-			import { start } from "/./_app/start-fc19a0ed.js";
+			import { start } from "/./_app/start-8e3ff029.js";
 			start({
 				target: document.querySelector("#svelte"),
 				paths: {"base":"","assets":"/."},
@@ -30,8 +30,8 @@
 					status: 200,
 					error: null,
 					nodes: [
-						import("/./_app/pages/__layout.svelte-4b7967dc.js"),
-						import("/./_app/pages/index.svelte-844e97b1.js")
+						import("/./_app/pages/__layout.svelte-d8ddd122.js"),
+						import("/./_app/pages/index.svelte-7050e01e.js")
 					],
 					page: {
 						host: location.host, // TODO this is redundant
@@ -49,18 +49,46 @@
 
 
 
+<main class="flex flex-col justify-between h-screen text-white"><header class="flex flex-row border-b p-1"><div class="flex-auto text-left"><a href="https://www.slwc.ca" class="bg-slwc-logo bg-cover w-6 h-6 block"><span class="sr-only">Silver Lake Wesleyan Camp</span></a></div>
+  <div class="flex-auto text-right"><a href="https://www.slwc.ca/give" class="uppercase border px-2 text-white font-extrabold">Donate</a></div></header>
+  
 
-
-<div class="flex-layout svelte-1709ja5">
-
-<main><div class="header container svelte-1qy75vo"><h1 class="md bold svelte-1qy75vo">Coming Soon
-    </h1></div>
-  <div class="container svelte-1qy75vo"><div class="text svelte-1qy75vo"><span class="bold uppercase green xs">Silver</span><span class="light green uppercase xs">Lake</span>
-      <div class="bold uppercase lg tight">camp</div>
-      <div class="uppercase sm green tight squish">unlimited.ca</div>
-      <img src="/_app/assets/slwc_alt_icon_color.b570413c.png" height="100px" alt="slwc logo" class="svelte-1qy75vo"></div></div>
-</main>
-</div>
+<section class="px-8 mb-auto"><h1 class="text-center uppercase text-3xl my-2"><span class="text-white font-extrabold">camp</span><span class="text-slwcgreen tracking-tighter">unlimited</span></h1>
+  <section class="flex flex-col gap-3"><div id="videoplayer" class="border h-40 flex flex-col"><div class="uppercase m-auto text-center"><p class="leading-3"><span class="text-slwcgreen font-extrabold">silver</span><span class="text-slwcgreen">lake</span></p>
+        
+        <span>video coming soon</span></div></div>
+    <div id="events" class="border text-center p-2"><h2 class="text-slwcgreen uppercase font-extrabold text-lg">upcoming events</h2>
+      <div class="text-center text-xs grid grid-cols-3 mb-3"><span>Sept 7, 2021</span>
+          <span>Southgate West</span>
+          <span>Ottawa, ON</span>
+          <span>Sept 18, 2021</span>
+          <span>Price Point Auto</span>
+          <span>Johnstown, ON</span>
+          <span>Sept 25, 2021</span>
+          <span>TBD</span>
+          <span>...</span>
+          <span>Oct 12, 2021</span>
+          <span>TBD</span>
+          <span>...</span>
+          <span>Oct 17, 2021</span>
+          <span>TBD</span>
+          <span>...</span></div>
+      <a href="mailto:campunlimited@slwc.ca" class="uppercase text-white px-2 border font-bold">book your event</a></div>
+    </section>
+  <h2 class="text-center text-slwcgreen uppercase font-extrabold text-lg my-2">our partners
+  </h2>
+  <div class="grid grid-cols-4 gap-4 items-center justify-items-center"><img class="max-h-16" src="/_app/assets/beattie_dodge.a4dc6094.png" alt="Beattie Dodge">
+    <img class="max-h-16" src="/_app/assets/1000_island_rv.439cf3c8.png" alt="Thousand Island RV">
+    <img class="max-h-16" src="/_app/assets/yfc.de183d31.png" alt="Youth for Christ">
+    <img class="max-h-16" src="/_app/assets/wesleyan_church.b1d59dec.png" alt="Wesleyan Church">
+    <img class="max-h-16" src="/_app/assets/ignite_printing.7a0363ef.png" alt="Ignite Printing">
+    <img class="max-h-16" src="/_app/assets/mason_photog.64a88c41.png" alt="Mason Photography">
+    <img class="max-h-16" src="/_app/assets/c_road.16707404.png" alt="Centennial Road Church">
+    <img class="max-h-16" src="/_app/assets/beattie_film.e95f531a.png" alt="Beattie Film"></div>
+  <div class="text-center mt-4"><a href="mailto:campunlimited@slwc.ca" class="uppercase text-white px-2 border font-bold">become a partner</a></div></section>
+  <footer class="text-center border-t p-1 mt-4"><span class="text-slwcgreen"><a href="mailto:campunlimited@slwc.ca">campunlimited@slwc.ca</a>
+    |
+    <a href="tel:+18775112267">1.877.511.CAMP</a></span></footer></main>
 
 
 
