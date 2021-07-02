@@ -10,7 +10,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;800&display=swap" rel="stylesheet">
 </svelte:head>
 
-<main class="flex flex-col justify-between h-screen">
+<main class="flex flex-col justify-between h-screen text-white">
   <Header />
   <slot />
   <Footer />
