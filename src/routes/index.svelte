@@ -44,9 +44,6 @@
           <span>Aug 5, 2021</span>
           <span>New Hope Christian Fellowship</span>
           <span>Shawville, QC</span>
-          <span>Sept 7, 2021</span>
-          <span>Southgate West</span>
-          <span>Ottawa, ON</span>
           <span>Sept 8, 2021</span>
           <span>Cornerstone Youth</span>
           <span>North Gower, ON</span>
