@@ -57,7 +57,7 @@
           <span>Sunnyside Wesleyan Church</span>
           <span>Ottawa, ON</span>
       </div>
-      <a href="mailto:campunlimited@slwc.ca" class="uppercase text-white px-2 border font-bold">book your event</a>
+      <a href="mailto:unlimited@slwc.ca" class="uppercase text-white px-2 border font-bold">book your event</a>
     </div>
     <!-- <div id="carousel" class="border h-24"></div> -->
   </section>
@@ -75,6 +75,6 @@
     <img class="max-h-16" src="{beattie_film}" alt="Beattie Film" />
   </div>
   <div class="text-center mt-4">
-    <a href="mailto:campunlimited@slwc.ca" class="uppercase text-white px-2 border font-bold">become a partner</a>
+    <a href="mailto:unlimited@slwc.ca" class="uppercase text-white px-2 border font-bold">become a partner</a>
   </div>
 </section>
