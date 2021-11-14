@@ -9,18 +9,19 @@
 		"format": "prettier --write --plugin-search-dir=. ."
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-static": "^1.0.0-next.17",
-		"@sveltejs/kit": "^1.0.0-next.161",
-		"@tailwindcss/forms": "^0.3.3",
-		"autoprefixer": "^10.3.3",
-		"cssnano": "^5.0.8",
+		"@sveltejs/adapter-static": "^1.0.0-next.21",
+		"@sveltejs/kit": "^1.0.0-next.196",
+		"@tailwindcss/aspect-ratio": "^0.3.0",
+		"@tailwindcss/forms": "^0.3.4",
+		"autoprefixer": "^10.4.0",
+		"cssnano": "^5.0.10",
 		"postcss": "^8.2.13",
 		"postcss-load-config": "^3.0.1",
-		"prettier": "^2.3.2",
+		"prettier": "^2.4.1",
 		"prettier-plugin-svelte": "^2.4.0",
 		"svelte": "^3.42.4",
-		"svelte-preprocess": "^4.8.0",
-		"tailwindcss": "^2.2.9"
+		"svelte-preprocess": "^4.9.8",
+		"tailwindcss": "^2.2.19"
 	},
 	"type": "module"
 }
