@@ -49,6 +49,19 @@
           <span>Oct 3, 2021</span>
           <span>Sunnyside Wesleyan Church</span>
           <span>Ottawa, ON</span>
+          <span>Oct 25, 2021</span>
+          <span>Roblin Wesleyan Youth</span>
+          <span>Roblin, ON</span>
+          <span>Jan 21, 2022</span>
+          <span>Community Life Creed Youth</span>
+          <span>Kanata, ON</span> 
+          <span>April 8, 2022</span>
+          <span>Asbury Youth</span>
+          <span>Perth, ON</span> 
+          <span>May 28, 2022</span>
+          <span>Westport FMC</span>
+          <span>Westport, ON</span>
+      
       </div>
       <a href="mailto:unlimited@slwc.ca" class="uppercase text-white px-2 border font-bold">book your event</a>
     </div>
