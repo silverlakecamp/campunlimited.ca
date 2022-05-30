@@ -64,7 +64,7 @@
           <span>May 28, 2022</span>
           <span>Westport FMC</span>
           <span>Westport, ON</span>
-          <span>Sept. 14, 2022</span>
+          <span>Sept 14, 2022</span>
           <span>Trenton Wesleyan Church</span>
           <span>Trenton, ON</span>        
       </div>
