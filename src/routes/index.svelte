@@ -58,13 +58,15 @@
           <span>April 8, 2022</span>
           <span>Asbury Youth</span>
           <span>Perth, ON</span> 
-          <span>May 21, 2022</span>
+          <span>June 18, 2022</span>
           <span>The Bridge Youth</span>
           <span>Kanata, ON</span>
           <span>May 28, 2022</span>
           <span>Westport FMC</span>
           <span>Westport, ON</span>
-        
+          <span>Sept. 14, 2022</span>
+          <span>Trenton Wesleyan Church</span>
+          <span>Trenton, ON</span>        
       </div>
       <a href="mailto:unlimited@slwc.ca" class="uppercase text-white px-2 border font-bold">book your event</a>
     </div>
