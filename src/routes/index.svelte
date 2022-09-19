@@ -78,7 +78,12 @@
           <span>Shawville, QC</span>
           <span>Sept 14, 2022</span>
           <span>Trenton Wesleyan Church</span>
-          <span>Trenton, ON</span>        
+          <span>Trenton, ON</span>  
+          <span>Sept 28, 2022</span>
+          <span>Kars on Rideau Public School</span>
+          <span>Kars, ON</span> 
+        
+        
       </div>
       <a href="mailto:unlimited@slwc.ca" class="uppercase text-white px-2 border font-bold">book your event</a>
     </div>
