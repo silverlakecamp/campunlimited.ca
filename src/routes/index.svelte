@@ -82,6 +82,7 @@
           <span>Sept 28, 2022</span>
           <span>Kars on Rideau Public School</span>
           <span>Kars, ON</span> 
+          <span>Feb. 10, 2023</span>
           <span>Burn Weekend</span>
           <span>Roblin, ON</span>
         
