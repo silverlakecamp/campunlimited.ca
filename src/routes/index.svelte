@@ -67,7 +67,7 @@
           <span>June 18, 2022</span>
           <span>The Bridge Youth</span>
           <span>Kanata, ON</span>
-          <span>August 13, 2022</span>
+          <span>Aug 13, 2022</span>
           <span>Community Wesleyan Church</span>
           <span>Palmer Rapids, ON</span>
           <span>Sept 3, 2022</span>
@@ -82,7 +82,7 @@
           <span>Sept 28, 2022</span>
           <span>Kars on Rideau Public School</span>
           <span>Kars, ON</span> 
-          <span>Feb. 10, 2023</span>
+          <span>Feb 10, 2023</span>
           <span>Burn Weekend</span>
           <span>Roblin, ON</span>
         
