@@ -25,33 +25,6 @@
     <div id="events" class="border text-center p-2">
       <h2 class="text-slwcgreen uppercase font-extrabold text-lg">upcoming events</h2>
       <div class="text-center text-xs grid grid-cols-3 mb-3">
-          <span>June 20, 2021</span>
-          <span>Southgate Church</span>
-          <span>Kemptville, ON</span>
-          <span>June 23, 2021</span>
-          <span>Southgate Kidville</span>
-          <span>Kemptville, ON</span>
-          <span>June 27, 2021</span>
-          <span>C-Road Church</span>
-          <span>Brockville, ON</span>
-          <span>Aug 5, 2021</span>
-          <span>New Hope Christian Fellowship</span>
-          <span>Shawville, QC</span>
-          <span>Sept 8, 2021</span>
-          <span>Cornerstone Youth</span>
-          <span>North Gower, ON</span>
-          <span>Sept 11, 2021</span>
-          <span>The Bridge Youth</span>
-          <span>Kanata, ON</span>
-          <span>Sept 25, 2021</span>
-          <span>Price Point Auto</span>
-          <span>Johnstown, ON</span>
-          <span>Oct 3, 2021</span>
-          <span>Sunnyside Wesleyan Church</span>
-          <span>Ottawa, ON</span>
-          <span>Oct 25, 2021</span>
-          <span>Roblin Wesleyan Youth</span>
-          <span>Roblin, ON</span>
           <span>Jan 21, 2022</span>
           <span>Community Life Creed Youth</span>
           <span>Kanata, ON</span> 
@@ -85,10 +58,19 @@
           <span>Feb 10, 2023</span>
           <span>Burn Weekend</span>
           <span>Roblin, ON</span>
-        
-        
-        
-      </div>
+          <span>May 27, 2023</span>
+          <span>Westport FMC</span>
+          <span>Westport, ON</span>        
+          <span>June 22, 2023</span>
+          <span>Riverside Community Church</span>
+          <span>Frankford, ON</span>
+          <span>Sept 10, 2023</span>
+          <span>The Bridge Church</span>
+          <span>Kanata, ON</span>
+          <span>Sept 30, 2023</span>
+          <span>MacDonalds Corners Fair</span>
+          <span>MacDonalds Corners, ON</span>
+    </div>
       <a href="mailto:unlimited@slwc.ca" class="uppercase text-white px-2 border font-bold">book your event</a>
     </div>
     <h2 class="text-center text-slwcgreen uppercase font-extrabold text-lg my-2">
