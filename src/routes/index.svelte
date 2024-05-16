@@ -70,7 +70,13 @@
           <span>Sept 30, 2023</span>
           <span>MacDonalds Corners Fair</span>
           <span>MacDonalds Corners, ON</span>
-    </div>
+          <span>April 12, 2024</span>
+          <span>C*Road Midnight Rally</span>
+          <span>Brockville, ON</span>
+          <span>May 25, 2024</span>
+          <span>Westport FMC</span>
+          <span>Westport, ON</span>
+</div>
       <a href="mailto:unlimited@slwc.ca" class="uppercase text-white px-2 border font-bold">book your event</a>
     </div>
     <h2 class="text-center text-slwcgreen uppercase font-extrabold text-lg my-2">
